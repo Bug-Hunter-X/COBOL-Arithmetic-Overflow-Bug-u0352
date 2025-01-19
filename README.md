@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: arithmetic overflow. The `bug.cob` file contains code that attempts to add two numbers whose sum exceeds the capacity of the result variable, leading to unexpected results. The `bugSolution.cob` file offers a corrected version of the code that prevents overflow.
